@@ -16,8 +16,6 @@ service 'apache2' do
 end 
 
 cookbook_file '/var/www/index.html' do 
-	source 'index.htnl' 
+	source 'index.html' 
 	mode '0644' 
 end 
-
-0
