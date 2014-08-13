@@ -1,2 +1,3 @@
-rails do 
+package 'rails'  do 
+  action :install
 end
