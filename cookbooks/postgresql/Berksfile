@@ -1,0 +1,7 @@
+source "https://supermarket.getchef.com"
+
+metadata
+
+'apt' >= '1.9.0'
+'build-essential' >= '0.0.0'
+'openssl' >= '0.0.0'
